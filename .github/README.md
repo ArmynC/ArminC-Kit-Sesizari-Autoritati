@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   <a href="https://github.com/ArmynC/ArminC-Kit-Sesizari-Autoritati/archive/main.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-Kit-Sesizari-Autoritati/main/kit_sesizari_autoritati.png" alt="ArminC Kit Sesizari Autoritati"></a>
 </h1>
 
