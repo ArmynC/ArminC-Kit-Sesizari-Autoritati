@@ -1,15 +1,15 @@
 ADRESA din xx.xx.xxxx
 
 In atentia:
-Primaria Sectorului 5, DADP 5
+Primaria Sectorului 5
 
 Descriere situatie:
 
-Doresc a va aduce la cunostinta faptul ca in <...> din zona strazii <...>, Sector 5, <...> prezinta o degradare accelerata. Se observa ca acestea din urma au fost, in mare parte, <...> si totodata, <...>.
+Doresc a va aduce la cunostinta faptul ca pe <...>, nr. <...>, Sector 5, exista o degradare accelerata a starii partii carosabile. Se pot observa multiple gropi si denivelari de intensitati diferite care pot genera situatii periculoase pentru siguranta circulatiei, integritatea corporala a participantilor la trafic, precum si bunurile acestora.
 
 Localizare: <...>
 
-Aceasta zona intra in administrarea dvs., drept urmare, va solicit sa luati in considerare toate aspectele semanalate anterior si in urma unui proces de documentare, sa reparati si reamenajati in cel mai scurt timp obiectele publice degradate de-a lungul timpului.
+Aceasta zona intra in administrarea dvs., drept urmare, va solicit sa luati in considerare toate aspectele semanalate anterior si in urma unui proces de documentare, sa reparati in cel mai scurt timp partea carosabila degradata de-a lungul timpului.
 
 Am atasat imagini edificatoare la aceasta sesizare, pe care va rog sa le consultati cu maxima seriozitate in procesul dvs. de a lua toate masurile care se impun in aceasta speta.
 
@@ -23,4 +23,4 @@ Multumesc anticipat!
 
 TRIMITE LA:
 
-dadp@sector5.ro , CC: primarie@sector5.ro
+primarie@sector5.ro
